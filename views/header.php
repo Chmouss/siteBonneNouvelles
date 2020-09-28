@@ -2,7 +2,7 @@
 <html lang="fr">
 	<head>
 		<meta charset="utf-8" >
-		<title>Site TEST </title>
+		<title>Site TEST ! </title>
 		<link rel="stylesheet" type="text/css" href="views/css/base.css" media="all" >
 		<link rel="stylesheet" type="text/css" href="views/css/modele01.css" media="screen" >
 	</head>
