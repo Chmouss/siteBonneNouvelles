@@ -7,7 +7,7 @@
 	        <a href="mailto:<?php echo EMAIL ?>"><?php echo EMAIL ?></a>
 			<p id="copyright">Mise en page d'après
 				<a href="http://www.alsacreations.com/tutoriels/">Alsacréations</a>
-				Lekeu Cyprien
+				Lekeu Cyprien.
 			</p>
 		</div><!-- #pied -->
 	</div><!-- #global -->
